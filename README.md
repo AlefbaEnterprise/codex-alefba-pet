@@ -1,8 +1,13 @@
-# Alefba Deer v2 for Codex
+# Alefba Deer animation assets
 
-یک پت سفارشی Codex با شخصیت گوزن آبی جادویی Alefba. این نسخه از نو ساخته شده و هر فریم انیمیشن مستقل، کامل و درون محدودهٔ خودش است.
+An animated blue deer for Codex is packaged as a pet manifest and a WebP sprite sheet. The manifest identifies the character and references the sheet by a relative path.
 
-![Alefba Deer v2 contact sheet](pets/alefba-deer-v2/contact-sheet.png)
+Inspect the contact sheet to see the frame layout, then compare it with the manifest and saved validation data. The validation file records an earlier inspection of the artwork.
+
+- [pet.json](pets/alefba-deer-v2/pet.json)
+- [spritesheet.webp](pets/alefba-deer-v2/spritesheet.webp)
+- [contact-sheet.png](pets/alefba-deer-v2/contact-sheet.png)
+- [validation.json](pets/alefba-deer-v2/validation.json)
 
 ## Contents
 
